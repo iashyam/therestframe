@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: The Rest Frame
+author: Shyam Sunder
 ---
 
