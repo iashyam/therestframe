@@ -36,14 +36,14 @@ In future I am planning to do
 
 You can visit my website here:
 
-https://www.iashyam.in/
+[https://www.iashyam.in/]()
 
 You can write a mail to me here:
 
-Shyam10kwd@gmail.com
+[Shyam10kwd@gmail.com](mailto:Shyam10kwd@gmail.com)
 
 Here is my Instagram Handle:
 
-www.instagram.com/iashyam
+[www.instagram.com/iashyam]()
 
 Feel free to start a project with me!! Happy learning..
